@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.4.4)
+  - IQKeyboardManagerSwift (6.5.9)
+  - SKActivityIndicatorView (1.0.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - IQKeyboardManagerSwift
+  - SKActivityIndicatorView (~> 1.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IQKeyboardManagerSwift
+    - SKActivityIndicatorView
+
+SPEC CHECKSUMS:
+  Alamofire: f3b09a368f1582ab751b3fff5460276e0d2cf5c9
+  IQKeyboardManagerSwift: 6e839c575c4aa1078d58a596e41244e77abe918f
+  SKActivityIndicatorView: 81c123380127ad497f9b57cd4d11347e40ab3427
+
+PODFILE CHECKSUM: 48c583c0cf41adcde775c11453c8624821d813fa
+
+COCOAPODS: 1.11.2
